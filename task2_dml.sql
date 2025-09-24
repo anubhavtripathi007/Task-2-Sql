@@ -1,9 +1,3 @@
-
--- ========================================================
--- Task 2: Data Insertion and Handling Nulls (based on Task 1 schema)
--- File: task2_dml.sql
--- ========================================================
-
 USE ecommerce_db;
 
 -- Insert Users
